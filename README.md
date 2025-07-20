@@ -1,5 +1,6 @@
 # eldenringcoop
 elden ring coop without steam drm, offline mode, and crack
+
 extract the inside of modelelden folder to your game file .../elden ring/game 
 and start erc_launcher.exe
 
